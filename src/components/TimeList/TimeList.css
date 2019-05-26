@@ -1,0 +1,50 @@
+.bigTime {
+    font-size: 16px;
+    height: 4px;
+    display: flex;
+}
+.time .timeSet {
+    padding-top: 30px;
+    position: relative;
+    overflow: hidden;
+    height: 725px;
+    padding-bottom: 20px;
+}
+.div {
+    display: flex;
+}
+p {
+    margin: 0;
+    color: gray;
+}
+.time {
+    display: flex;
+    justify-content: left;
+    align-items: flex-start;
+    padding-left: 50px;
+    height: 800px;
+    position: relative;
+    overflow: hidden;
+}
+.planDay {
+    padding-top: 8px;
+    font-size: 16px;
+    position: absolute;
+    left: 37px
+}
+
+.div{
+    font-size: 12px;
+    display: flex;
+    padding-bottom: 20px;
+    width: 244px;
+}
+.div:nth-child(2n+1) {
+    font-size: 16px;
+    display: flex;
+    border-top: 1px solid #E2ECF5;
+    padding-top: 1px
+}
+
+
+

@@ -1,0 +1,19 @@
+.eventList {
+    max-width: 200px;
+    background-color: #E2ECF5 ;
+    border-left:  #6E9ECF solid 2px;
+    margin-left: 5px;
+    margin-top: -10px;
+}
+textarea {
+    background-color: #E2ECF5;
+    border:none;
+    outline: none;
+    resize: vertical;
+    overflow: hidden;
+    width: 196px;
+}
+.inputWrap div {
+    margin-top: -21px;
+    width: 200px;
+}
